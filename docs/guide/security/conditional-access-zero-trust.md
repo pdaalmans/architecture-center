@@ -32,7 +32,7 @@ This guidance is intended for individuals who:
 The intended audience has a basic working knowledge of Microsoft Entra ID and a general understanding of multi-factor authentication, Conditional Access, identity, and security concepts.
 
 Knowledge in the following areas is also recommended:
-- Microsoft Endpoint Manager
+- Microsoft Intune
 - Microsoft Entra identity management
 - Microsoft Entra Conditional Access and multi-factor authentication for guest users (B2B)
 - Microsoft Entra security policies and resource protection
